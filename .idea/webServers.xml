@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="512adfaf-da7c-416f-888b-55f694711866" name="Xampp" url="http://localhost/dao_example">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\dao_example" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
